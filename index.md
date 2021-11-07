@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Kiwi's Archives
 
-You can use the [editor on GitHub](https://github.com/kiwizu3/w11act/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Windows 11 Activtion [Click here](https://www.blowingideas.com/windows-11-product-keys/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
